@@ -24,6 +24,10 @@ public class Pedidos {
         this.mesas = mesas;
     }
 
+    public Pedidos() {
+
+    }
+
     public Meseros getMesero() {
         return mesero;
     }
